@@ -22,3 +22,19 @@ Custom data table using LWC
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
+
+
+## About The Project
+
+This project creates a custom data table using LWC. It is compatible with Lightning eperience.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+### Built With
+
+* LWC
+* Apex
+* JS
+* CSS
+* Html
