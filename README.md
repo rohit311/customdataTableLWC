@@ -26,7 +26,7 @@ Custom data table using LWC
 
 ## About The Project
 
-This project creates a custom data table using LWC. It is compatible with Lightning eperience.
+This project creates a custom data table using LWC. It is compatible with Lightning experience.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -38,3 +38,15 @@ This project creates a custom data table using LWC. It is compatible with Lightn
 * JS
 * CSS
 * Html
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## Getting Started
+
+The code for this project is available in this repo but it can be directly installed in any Salesforce org using below link for unmanaged package: 
+
+* Unmanaged package
+  ```sh
+  https://login.salesforce.com/packaging/installPackage.apexp?p0=04tIU000000vN0M
+  ```
