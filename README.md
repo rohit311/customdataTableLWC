@@ -55,11 +55,10 @@ The code for this project is available in this repo but it can be directly insta
   ### Installation
 1. Login to your Salesforce org
 2. For sandbox environments, open a new tab and paste below link:
-   ```sh
-  https://test.salesforce.com/packaging/installPackage.apexp?p0=04tIU000000vN0M 
-  ```
+     ```sh
+    https://test.salesforce.com/packaging/installPackage.apexp?p0=04tIU000000vN0M
+    ```
 3.For production / developer environments, replace `test` with `login` in above url.
 4. Click install & package should get installed within few minutes.
-
 
 
