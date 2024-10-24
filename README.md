@@ -62,3 +62,6 @@ The code for this project is available in this repo but it can be directly insta
 4. Click install & package should get installed within few minutes.
 
 
+## Roadmap
+1. Make the component generic for supporting most of the objects
+2. 
