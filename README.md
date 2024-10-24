@@ -52,6 +52,14 @@ The code for this project is available in this repo but it can be directly insta
   ```
 
 
+  ### Assumptions
+  1. The maximum records queried is limited to 2000 due to offset limitation in apex. This can be easily overcome using `createdDate/Id` as custom offset. Here, its for demonstration purpose.
+  2. Editable field is assumend to be of number type which can be extended for all types of field.
+  3. Fixed set of fields is considered for this implementation. Later, it can be fetched via a fieldset/custom metadata.
+  4. Record level access is not considered. It can be added by multiple ways.
+
+
+
   ### Installation
 1. Login to your Salesforce org
 2. For sandbox environments, open a new tab and paste below link:
@@ -68,5 +76,6 @@ This component can be added to any record , home or app page.
 
 
 ## Roadmap
-1. Make the component generic for supporting most of the objects
-2. 
+1. Make the component generic for supporting most of the objects.
+2. Make the data table columns dynamic and configurable.
+3. Add support for experience(community) pages.
