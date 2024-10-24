@@ -64,6 +64,8 @@ The code for this project is available in this repo but it can be directly insta
 
 ## Usage
 This component can be added to any record , home or app page.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Roadmap
 1. Make the component generic for supporting most of the objects
