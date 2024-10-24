@@ -79,3 +79,12 @@ This component can be added to any record , home or app page.
 1. Make the component generic for supporting most of the objects.
 2. Make the data table columns dynamic and configurable.
 3. Add support for experience(community) pages.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## Contact
+Rohit Chavan - scorpiorohit311@gmail.com
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
